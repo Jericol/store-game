@@ -1,0 +1,9 @@
+* Ejecutar nuestra App --> npm run dev   
+*esta es una app de video juegos tenemos
+ ----- un header con sus respectivos link con un 
+ ----- carrito me compras mas un icono de me gusta 
+ ----- mas un icono de un usuario 
+ ----- con un sidebar mas un menu contenedor 
+ -----con sus respectivas card todas las imagenes no 
+ ----- son Api se trago localmente esta imagenes he 
+ ----- iconos 
